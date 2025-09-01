@@ -1,9 +1,6 @@
-### NAME:SRI SRINIVASAN K
-### REG.NO: 212224220104
-
-
-## Exp:1 IMPLEMENTATION OF CAESER CIPHER 
-
+## Exp : 1 IMPLEMENTATION OF CAESER CIPHER 
+## NAME : SRI SRINIVASAN K
+## REGISTER NUMBER : 212224220104
 ## AIM: 
 To encrypt and decrypt the given message by using Caeser Cipher encryption algorithm. 
   
